@@ -1,1 +1,1 @@
-#A recent publication regarding the use of propensity score matching in program evaluations
+A recent publication regarding the use of propensity score matching in program evaluations
